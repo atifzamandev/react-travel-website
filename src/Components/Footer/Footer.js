@@ -94,7 +94,7 @@ const Footer = () => {
         <div className={classes.footer__base}>
           <Logo />
           <span className={classes.footer__base__year}>
-            Tropic&nbsp;&copy;&nbsp;{new Date().getFullYear()}
+            Tropic &nbsp;&copy;&nbsp; {new Date().getFullYear()}
           </span>
           <ul className={classes.footer__base__socials}>
             {socials.map((icon, index) => {
