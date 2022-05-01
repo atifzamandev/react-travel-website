@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visi the project live http://ec2-54-144-54-133.compute-1.amazonaws.com/
 
 ## Available Scripts
 
