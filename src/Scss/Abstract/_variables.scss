@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700&display=swap");
+// fonts
+
+$font-family: "Lato", sans-serif;
+
+// Color scheme.
+$light: #dbe6ed;
+$light2: #efe9e6;
+$lightLine: #dbe6ed;
+
+$dark: #0f1515;
+$dark2: #08332f;
+$darkLight: #055449;
+
+$aqua: #229b91;
+$white: #fff;
+$black: #fff;
+
+// Border radius
+$borderRadius: 12px;
+
+// Letter spacing
+$letterSpacing: 0.4px;
+
+// Spacing
+$spacing-sm: 12px;
+$spacing-md: 24px;
+$spacing-lg: 32px;
+$spacing-xl: 64px;
+
+//Heights
+$headerHeight: 90px;
+
+//Box shadow
+$boxShadow: 0 1px 1px rgba(0, 0, 0, 0.25), 0 2px 2px rgba(0, 0, 0, 0.2),
+  0 4px 4px rgba(0, 0, 0, 0.15), 0 8px 8px rgba(0, 0, 0, 0.1),
+  0 16px 16px rgba(0, 0, 0, 0.05);
