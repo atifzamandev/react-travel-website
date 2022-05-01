@@ -23,11 +23,12 @@ const Nav = ({ isMenu, menuToggle }) => {
         outline
         className={classes.booknow}
         onClick={() => {
-          menuToggle();
-          navigation("/booknow");
+            navigation("/booknow");
+            menuToggle();
+          
         }}
       >
-        Book Now
+        Book Now a
       </Button>
     </nav>
   );
